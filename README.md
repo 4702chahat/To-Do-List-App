@@ -1,9 +1,3 @@
-# To-Do-List-App
-
-A **README.md** file on GitHub serves as the primary introduction to your project, explaining its purpose, features, and how to use or contribute to it. Here's what to include in your README file for a **To-Do List App**:
-
----
-
 # To-Do List App
 
 A simple and intuitive web-based To-Do List application that helps users organize their tasks effectively.
